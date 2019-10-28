@@ -1,4 +1,4 @@
-package com.hikvision.bigdata.ude.java.struct;
+package com.zengrui.java.struct;
 
 /**
  * @Description: 链表测试
